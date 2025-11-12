@@ -1,4 +1,5 @@
 # 🤖 소득세 챗봇 (Income Tax Chatbot)
+https://income-tax-chat.streamlit.app/
 
 한국 **소득세 관련 질문**에 답변하는 AI 챗봇입니다.  
 LangChain, OpenAI, Pinecone, Streamlit을 활용하여 구축되었습니다.
